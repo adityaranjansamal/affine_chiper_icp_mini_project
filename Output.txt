@@ -1,0 +1,8 @@
+PS C:\Users\adity\PROGRAMMING FILES\PersonalProjects> cd "c:\Users\adity\PROGRAMMING FILES\PersonalProjects\" ; if ($?) { javac AffineChiper.java } ; if ($?) { java AffineChiper }
+Enter the message: adityaranjansamal
+Enter the multiplicative key (key1)
+7
+Enter the additive key (key2)
+2
+Encrypted message: cxgfocrcpncpycicb
+Decrypted message: adityaranjansamal
